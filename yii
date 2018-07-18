@@ -1,4 +1,4 @@
-#!/usr/bin/env php
+#!/usr/bin/php
 <?php
 
 // fcgi doesn't have STDIN and STDOUT defined by default

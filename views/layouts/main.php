@@ -70,7 +70,7 @@ $userName =  \Yii::$app->user->id ? $user->getName() : '';
     <div class="navbar-container" id="navbar-container">
         <div class="pull-left">
             <a href="javascript:;" class="navbar-brand">
-                <small>Walle</small>
+                <small>代码发布系统</small>
             </a><!-- /.brand -->
         </div><!-- /.navbar-header -->
 
